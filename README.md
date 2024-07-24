@@ -26,7 +26,11 @@ TODO
 1. Prevent Master from being a child/follower.  I think I did this. Deeeerkie?
 2. Clear drop down when removing an account. This is a pain point right now. To avoid it create a Sim account with like a million bucks called GarbageMan and just assign it.
 3. Instead of showing Master + Label in the Display override show Master and all active/real followers/kiddos
-4. 
+4. asdf
+
+BUGZ
+====
+1. Can't save templates etc... because the account is attached. Blah, blah, blah you will figure this out.
    
 
 
