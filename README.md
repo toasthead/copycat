@@ -1,9 +1,14 @@
 Copy Cat
-=========
+========
 Copy Cat - All I need are some tasty waves, a cool buzz, and I'm fine. A totes yeah man rotes totes frees as in frees trades copierz for NT8! Righteous Dudes!
 
+CREDITS
+=======
+1. Werds to the Markdown kids [https://www.markdownguide.org/] Making coding less of a headache every day.
+2. 
+
 Warnings
-=========
+========
 1. Free don't mean easy.
 2. Free means be careful.
 3. Lots of bugs means fun times.
@@ -16,7 +21,7 @@ ALWAYS
 3.  You will understand in time or you will stand under.
 4.  asdf
 
-Instaslation
+Instasllation
 =============
 1. Deeeeeeeeeeeeeeeerrrrrrrrrrrrkkkkkkkkkkiiiiiiiieeeeee!
 2. Just download it and then use the fucking NT8 import.
