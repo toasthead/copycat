@@ -1,6 +1,6 @@
 Copy Cat
 =========
-Copy Cat - A totes yeah man rotes totes frees as in frees trades copierz!
+Copy Cat - A totes yeah man rotes totes frees as in frees trades copierz for NT8! Righteous Dudes!
 
 Warnings
 =========
@@ -18,6 +18,7 @@ ALWAYS
 Instasllation
 =============
 1. Deeeeeeeeeeeeeeeerrrrrrrrrrrrkkkkkkkkkkiiiiiiiieeeeee!
+2. Just download it and then use the fucking NT8 import 
    
 Setup
 =====
