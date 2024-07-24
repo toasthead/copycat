@@ -1,6 +1,6 @@
 Copy Cat
 ========
-Copy Cat - All I need are some tasty waves, a cool buzz, and I'm fine. A totes yeah man rotes totes frees as in frees trades copierz for NT8! Righteous Dudes!
+Copy Cat - All I need are some tasty waves, a cool buzz, and I'm fine. A totes yeah man rotes totes frees as in frees trades copierz for NT8! Righteous Dudes! Up to 20 accounts follow one leader Cat!
 
 
 Warnings
