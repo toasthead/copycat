@@ -7,18 +7,21 @@ Warnings
 1. Free don't mean easy.
 2. Free means be careful.
 3. Lots of bugs means fun times.
+4. asdf
 
 ALWAYS
 ======
 1.  Always. No matter what.  Add this indicator as a New Panel.  When you add the indicator there is a section called "Visual" and it has a drop down. Use the "Panel" dropdown and select "New Panel". Derk says, "Not on my price panel!".
-2.  You will understand in time or you will stand under.
-3.  The Indicator NAME will be the Cat Account you choose but you SHOULD use the text input Label to identify the underlying Kitten accounts.
-5.  asdf
+2.  A cool feature man, is that the Indicator NAME will be the Cat Account you choose but you SHOULD use the text input Label to identify the underlying Kitten accounts.
+3.  You will understand in time or you will stand under.
+4.  asdf
 
 Instasllation
 =============
 1. Deeeeeeeeeeeeeeeerrrrrrrrrrrrkkkkkkkkkkiiiiiiiieeeeee!
-2. Just download it and then use the fucking NT8 import 
+2. Just download it and then use the fucking NT8 import.
+3. It is totall free open source so you can open the .cs file in a text editor of your choice like HatePad, Derk means, Notepad and see there is nothing harmful.  Trust us, if we wanted to harm you, you would have already been harmed.
+4. asdf
    
 Setup
 =====
