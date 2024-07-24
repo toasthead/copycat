@@ -17,7 +17,7 @@ ALWAYS
 3.  You will understand in time or you will stand under.
 4.  asdf
 
-Instasllation
+Installation
 =============
 1. Deeeeeeeeeeeeeeeerrrrrrrrrrrrkkkkkkkkkkiiiiiiiieeeeee!
 2. Just download it and then use the fucking NT8 import.
