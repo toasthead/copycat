@@ -2,6 +2,10 @@ Copy Cat
 =========
 Copy Cat - A totes yeah man rotes totes frees as in free trades copierz!
 
+ALWAYS
+======
+1.  Always. No matter what.  Add this indicator as a New Panel.  When you add the indicator there is a sectoin called "Visual" and it has a drop down. Use the "Panel" dropdown and select "New Panel". Derk says, "Not on my price panel!"
+
 Warnings
 =========
 1. Free don't mean easy.
@@ -19,7 +23,11 @@ Ideas on Using with Strategies
 ==============================
 1. NinjaTrader strategies are notoriously difficult to synchronize with the underlying accounts.
 2. So, Derk suggest, you create two to three Sim accounts for each Strategy so you can synchronize the underlying accounts.
-   a. asdf
+3. I am not going to use the word "Sim" because for some reason NinjaTrader thinks that is mandatory.
+4. SimTest1A, SimTest1B, SimTest1C.
+5. Now, suppose you have a strategy on a 1m chart called "Bullshit".  You assign that strategy and/or chart to SimTest1A.  I say strategy bcuz you might be a fancy mutherfucker who does strats without charts.
+6. Add CopyCat and the Leader Cat is SimTest1A and the follower is SimTest1B and activate it.  Every trade SimTest1A takes will be copied to SimTest1B.
+7. Here is where it gets fun.
 
 TODO
 ====
