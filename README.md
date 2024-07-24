@@ -27,7 +27,7 @@ Installation
 Setup
 =====
 1. Derk recommends you have your chart on the account you want to replicate.
-2. Add the indicator to your chart.
+2. Add the CopyCat indicator to your chart.
 3. Set the "Copy from this Account" to the account on your Chart.
 4. Set the various Account 1 through 20 to what you want to copy.
 5. asdf
