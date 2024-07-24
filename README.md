@@ -15,6 +15,10 @@ ALWAYS
 3.  The Indicator NAME will be the Cat Account you choose but you SHOULD use the text input Label to identify the underlying Kitten accounts.
 5.  asdf
 
+Instasllation
+=============
+1. Deeeeeeeeeeeeeeeerrrrrrrrrrrrkkkkkkkkkkiiiiiiiieeeeee!
+   
 Setup
 =====
 1. Derk recommends you have your chart on the account you want to replicate.
