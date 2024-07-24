@@ -38,7 +38,7 @@ Ideas on Using with Strategies
 2. So, Derk suggests, you create a minimum of 3 Sim accounts for each Strategy so you can synchronize the underlying accounts.
 3. I am not going to use the word "Sim" because for some reason NinjaTrader thinks that is mandatory.
 4. Create SimTest1A, SimTest1B, SimTest1C simulation accounts before connecting to your live data feed. Set the commission and cash balance as you see fit. I used the werd.
-5. Derk suggest you create a Sim account for garbage.  Create a Sim account called SimGarbageMan.  Why? So you can swap out Kitten follows from the Cat leader account without disabling too much shat. 
+5. Derk suggest you create a Sim account for garbage.  Create a Sim account called SimGarbageMan.  Why? So you can swap out Kitten follows from the Cat leader account without disabling too much shat. If you know NT8 indicator and strategy behavior you will understand or stand under!
 6. Now, suppose you have a strategy on a 1m chart called "Bullshit".  You assign that strategy and/or chart to SimTest1A account. You add CopyCat with SimTest1A as the Cat (leader).  I say strategy bcuz you might be a fancy mutherfucker who does strats without charts. Still the Cat is the Cat and not a Kitten.
 7. Add CopyCat and the Leader Cat is SimTest1A and the follower is SimTest1B and activate it.  Every trade SimTest1A takes will be copied to SimTest1B.
 8. Here is where it gets fun.
