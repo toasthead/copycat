@@ -1,6 +1,6 @@
 Copy Cat
 =========
-Copy Cat - A totes yeah man rotes totes frees as in free trades copierz!
+Copy Cat - A totes yeah man rotes totes frees as in frees trades copierz!
 
 ALWAYS
 ======
