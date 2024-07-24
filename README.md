@@ -12,7 +12,8 @@ ALWAYS
 ======
 1.  Always. No matter what.  Add this indicator as a New Panel.  When you add the indicator there is a section called "Visual" and it has a drop down. Use the "Panel" dropdown and select "New Panel". Derk says, "Not on my price panel!".
 2.  You will understand in time or you will stand under.
-3.  asdf
+3.  The Indicator NAME will be the Cat Account you choose but you SHOULD use the text input Label to identify the underlying Kitten accounts.
+5.  asdf
 
 Setup
 =====
