@@ -2,10 +2,6 @@ Copy Cat
 ========
 Copy Cat - All I need are some tasty waves, a cool buzz, and I'm fine. A totes yeah man rotes totes frees as in frees trades copierz for NT8! Righteous Dudes!
 
-CREDITS
-=======
-1. Werds to the Markdown kids [https://www.markdownguide.org/] Making coding less of a headache every day.
-2. 
 
 Warnings
 ========
@@ -65,5 +61,7 @@ BUGZ
 1. Can't save templates etc... because the account is attached. Blah, blah, blah you will figure this out.  See the TODOs mofo!
 2. asdf
    
-
+WERDZ AKA CREDITS
+=================
+1. Werds to the Markdown kids [https://www.markdownguide.org/] Making coding less of a headache every day.
 
