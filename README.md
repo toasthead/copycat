@@ -4,7 +4,8 @@ Copy Cat - A totes yeah man rotes totes frees as in frees trades copierz!
 
 ALWAYS
 ======
-1.  Always. No matter what.  Add this indicator as a New Panel.  When you add the indicator there is a section called "Visual" and it has a drop down. Use the "Panel" dropdown and select "New Panel". Derk says, "Not on my price panel!"
+1.  Always. No matter what.  Add this indicator as a New Panel.  When you add the indicator there is a section called "Visual" and it has a drop down. Use the "Panel" dropdown and select "New Panel". Derk says, "Not on my price panel!".
+2.  You will understand in time or you will stand under.
 
 Warnings
 =========
