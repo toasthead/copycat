@@ -19,7 +19,7 @@ Ideas on Using with Strategies
 ==============================
 1. NinjaTrader strategies are notoriously difficult to synchronize with the underlying accounts.
 2. So, Derk suggest, you create two to three Sim accounts for each Strategy so you can synchronize the underlying accounts.
-2.1 
+   a. asdf
 
 TODO
 ====
