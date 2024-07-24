@@ -42,7 +42,7 @@ Ideas on Using with Strategies
 6. Now, suppose you have a strategy on a 1m chart called "Bullshit".  You assign that strategy and/or chart to SimTest1A account. You add CopyCat with SimTest1A as the Cat (leader).  I say strategy bcuz you might be a fancy mutherfucker who does strats without charts. Still the Cat is the Cat and not a Kitten.
 7. Add CopyCat and the Leader Cat is SimTest1A and the follower is SimTest1B and activate it.  Every trade SimTest1A takes will be copied to SimTest1B.
 8. Here is where it gets fun.
-9. Set up a 2nd chart with SimTest1B as the account.  It doesn't need a strategy.  Add CopyCat with SimTest1B as the Cat and then add your actual personal or prop firm accounts as Kittens.  Now you can either safely synchronize yourself to a running strategy on SimTest1A via SimTest1B or after synchronizing you can easily exit if you want to manually manage the trade.
+9. Set up a 2nd chart with SimTest1B as the account.  It doesn't need a strategy.  Add CopyCat with SimTest1B as the Cat and then add your actual personal or prop firm accounts as Kittens.  Now you can either safely synchronize yourself to a running strategy on SimTest1A via SimTest1B or after synchronizing you can easily exit if you want to manually manage the trade.  Why? Because you can either activate it and when SimTest1A executes an order and copies to SimTest1B it will be copied to all of SimTest1B's Kittens.  OR OR OR OR OR OR....yeah, the big OR...you can leave the CopyCat deactivated on the SimTest1A chart/account but activate it on the SimTest1B chart/account to try to synchronize the underling Kitten accounts.  If this makes sense to you then you are smart.  If you are lost at this point then there is absolutely no hope for you.
 10. asdf
 
 TODO
