@@ -8,6 +8,7 @@ Use At Your Own Risk
 2. Use at your own risk.
 3. No guarantees.
 4. No refunds.
+5. asdf
 
 Warnings
 ========
@@ -72,4 +73,5 @@ BUGZ
 WERDZ AKA CREDITS
 =================
 1. Werds to the Markdown kids [https://www.markdownguide.org/] Making coding less of a headache every day.
+2. asdf
 
