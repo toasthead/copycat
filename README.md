@@ -2,6 +2,12 @@ Copy Cat v.1.00.01
 ==================
 Copy Cat - All I need are some tasty waves, a cool buzz, and I'm fine. A totes yeah man rotes totes frees as in frees trades copierz for NT8! Righteous Dudes! Up to 20 accounts follow one leader Cat!
 
+Use At Your Own Risk
+====================
+1. Eat a D*ck dumb Sh*t.
+2. Use at your own risk.
+3. No guarantees.
+4. No refunds.
 
 Warnings
 ========
