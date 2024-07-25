@@ -21,8 +21,9 @@ Installation
 =============
 1. Deeeeeeeeeeeeeeeerrrrrrrrrrrrkkkkkkkkkkiiiiiiiieeeeee!
 2. Just download it and then use the fucking NT8 import.
-3. It is totall free open source so you can open the .cs file in a text editor of your choice like HatePad, Derk means, Notepad and see there is nothing harmful.  Trust us, if we wanted to harm you, you would have already been harmed.
-4. asdf
+3. DO NOT FORGET to make sure the indicator is in it's own panel.  Panelrific!
+4. It is totally free open source so you can open the .cs file in a text editor of your choice like HatePad, Derk means, Notepad and see there is nothing harmful.  Trust us, if we wanted to harm you, you would have already been harmed.
+5. asdf
    
 Setup
 =====
